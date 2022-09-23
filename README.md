@@ -10,4 +10,9 @@ The possible reasons for them man not dying:
 
 2. Alien
    List the steps it takes to brush teeth for the alien to understand:
-   1. asdasd
+   1. First hold a teethbrush
+   1. Then put paste on the teethbrush
+   1. Then take the teethbrush and stick it in your mouth
+   1. Then with circler motion brush your teeth
+   1. When finished spit
+   1. Then take some water and clean your take teeth

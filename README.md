@@ -21,7 +21,7 @@ The possible reasons for them man not dying:
 3. Give your thoughts on BDD
 
    - What was positive and good about using BDD?
-     I think that using BDD definitely helps me make sure to develop my code to cover all the given scenarios.
+     \nI think that using BDD definitely helps me make sure to develop my code to cover all the given scenarios.
    - What was annoying or difficult?
      It takes some time to write the feature with scenarios
    - What surprised you?

@@ -1,0 +1,23 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "1. Shooting",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js --publish-quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abed01-lab/TestAssignement1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abed01-lab/TestAssignement1/issues"
+  },
+  "homepage": "https://github.com/Abed01-lab/TestAssignement1#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.6.0",
+    "@types/node": "^18.7.18"
+  }
+}

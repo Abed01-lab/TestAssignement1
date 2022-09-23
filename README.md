@@ -14,9 +14,9 @@ The possible reasons for them man not dying:
    1. First hold a teethbrush
    1. Then put paste on the teethbrush
    1. Then take the teethbrush and stick it in your mouth
-   1. Then with circler motion brush your teeth
-   1. When finished spit
-   1. Then take some water and clean your take teeth
+   1. Then with circular motion brush your teeth
+   1. When finished spit the accumulated paste liquid
+   1. Then rinse your mouth with some water.
 
 3. Give your thoughts on BDD
 

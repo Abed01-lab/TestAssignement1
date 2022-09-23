@@ -10,5 +10,4 @@ The possible reasons for them man not dying:
 
 2. Alien
    List the steps it takes to brush teeth for the alien to understand:
-
-1. asdasd
+   1. asdasd

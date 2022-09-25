@@ -45,7 +45,7 @@ The possible reasons for them man not dying:
 
    - What was positive and good about using BDD?
 
-     I think that using BDD definitely helps me make sure to develop my code to cover all the given scenarios.
+     I think that using BDD definitely helps us make sure to develop my code to cover all the given scenarios.
 
    - What was annoying or difficult?
 
@@ -61,4 +61,4 @@ The possible reasons for them man not dying:
 
    - Did BDD help you write some tests you wouldn’t otherwise have thought of?
 
-     It definitely helped me code more so I could cover all the scenarios
+     It definitely helped us code more so I could cover all the scenarios
